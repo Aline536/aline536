@@ -39,8 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aline536/aline536/output/snake.svg" alt="Snake animation" />
-
-###
